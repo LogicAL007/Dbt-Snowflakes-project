@@ -1,0 +1,2 @@
+# Dbt-Snowflakes project
+ 
