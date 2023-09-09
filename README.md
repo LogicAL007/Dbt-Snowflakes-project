@@ -58,22 +58,5 @@ This project dives into the advanced usage of dbt (data build tool) and Snowflak
 
 ## Additional Documentation
 
-- **RFM Explanation**: Understand the intricacies of RFM analysis with our detailed document found at `documentation/rfm_explanation.md`.
-  
-- **Snowpark Guide**: Explore the capabilities of Snowflake's Snowpark and its usage in our models. See `documentation/snowpark_guide.md`.
+- **Snowpark Guide**: Explore the capabilities of Snowflake's Snowpark and its usage in our models. 
 
-## Contributing
-
-For those interested in enhancing the capabilities of this project, you're welcome to propose changes! Start by forking this repository, make your proposed modifications, and then open a pull request.
-
-## Feedback and Support
-
-Found a bug or have a suggestion? Open an issue in this repository, and we'll address it promptly.
-
-## Licensing
-
-This project abides by the [MIT License](LICENSE).
-
----
-
-Remember to adjust placeholders like `[URL_OF_YOUR_GITHUB_REPOSITORY]` and add actual links to documents like `documentation/rfm_explanation.md` if they exist.
